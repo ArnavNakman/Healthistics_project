@@ -83,8 +83,3 @@ The app uses an SQL-based database for storing all the data related to users, or
 
 
 
-## Setup Instructions
-To run this app locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Densingh/hospital-management-app.git
